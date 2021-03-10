@@ -1,0 +1,6 @@
+﻿  Maze.cpp
+  main.cpp
+C:\Users\marce\Desktop\VS_Projects\MouseStuckInMaze\MouseStuckInMaze\main.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'bool'
+C:\Users\marce\Desktop\VS_Projects\MouseStuckInMaze\MouseStuckInMaze\main.cpp(5,7): warning C4101: 'c': unreferenced local variable
+  Generating Code...
+  MouseStuckInMaze.vcxproj -> C:\Users\marce\Desktop\VS_Projects\MouseStuckInMaze\Debug\MouseStuckInMaze.exe
